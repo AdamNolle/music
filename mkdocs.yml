@@ -1,0 +1,6 @@
+site_name: Adlon Music
+theme: cluster
+nav:
+   - Albums: albums.md
+   - Songs: songs.md
+   - Years in Review: yearinreview.md
